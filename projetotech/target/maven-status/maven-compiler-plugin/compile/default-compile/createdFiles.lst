@@ -1,0 +1,4 @@
+br\com\tech\Application.class
+br\com\tech\model\Usuario.class
+br\com\tech\controllers\GreetingsController.class
+br\com\tech\repository\UsuarioRepository.class
